@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Output directories
+filtered_images/*.jpg
